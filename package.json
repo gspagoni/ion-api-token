@@ -1,0 +1,27 @@
+{
+  "name": "ion-api-token",
+  "version": "1.0.0",
+  "description": "Infor Package for managing ionapi files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gspagoni/inforapipackage.git"
+  },
+  "keywords": [
+    "infor"
+  ],
+  "author": "Giampaolo Spagoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gspagoni/inforapipackage/issues"
+  },
+  "homepage": "https://github.com/gspagoni/inforapipackage#readme",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
