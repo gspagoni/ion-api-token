@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gspagoni/inforapipackage.git"
+    "url": "git+https://github.com/gspagoni/ion-api-token.git"
   },
   "keywords": [
     "infor"
@@ -16,9 +16,9 @@
   "author": "Giampaolo Spagoni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gspagoni/inforapipackage/issues"
+    "url": "https://github.com/gspagoni/ion-api-token/issues"
   },
-  "homepage": "https://github.com/gspagoni/inforapipackage#readme",
+  "homepage": "https://github.com/gspagoni/ion-api-token#readme",
   "dependencies": {
     "base-64": "^1.0.0",
     "request": "^2.88.2"
