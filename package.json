@@ -1,6 +1,6 @@
 {
   "name": "ion-api-token",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Infor Package for managing ionapi files",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/gspagoni/ion-api-token#readme",
   "dependencies": {
     "base-64": "^1.0.0",
+    "fs": "0.0.1-security",
     "request": "^2.88.2"
   },
   "devDependencies": {}
